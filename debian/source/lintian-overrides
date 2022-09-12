@@ -1,0 +1,3 @@
+python-antsibull-docs source: no-debian-changes
+python-antsibull-docs source: source-contains-prebuilt-windows-binary
+python-antsibull-docs source: source-package-encodes-python-version
