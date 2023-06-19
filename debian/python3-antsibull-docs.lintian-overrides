@@ -1,0 +1,4 @@
+python3-antsibull-docs: copyright-without-copyright-notice
+python3-antsibull-docs: initial-upload-closes-no-bugs
+python3-antsibull-docs: no-manual-page
+python3-antsibull-docs: zero-byte-file-in-doc-directory
